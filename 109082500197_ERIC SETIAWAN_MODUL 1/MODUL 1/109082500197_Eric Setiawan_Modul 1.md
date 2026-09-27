@@ -45,11 +45,11 @@ int main() {
 
 ##### Output 1
 
-[Screenshot Output Unguided 1_1](https://github.com/ericstwn/109082500197_Eric-Setiawan_Modul-1/blob/main/109082500197_ERIC%20SETIAWAN_MODUL%201/MODUL%201/Output/soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/ericstwn/109082500197_Eric-Setiawan_Modul-1/blob/main/109082500197_ERIC%20SETIAWAN_MODUL%201/MODUL%201/Output/soal1.png)
 
 ##### Output 2
 
-[Screenshot Output Unguided 1_2](https://github.com/ericstwn/109082500197_Eric-Setiawan_Modul-1/blob/main/109082500197_ERIC%20SETIAWAN_MODUL%201/MODUL%201/Output/soal1(2).png)
+![Screenshot Output Unguided 1_2](https://github.com/ericstwn/109082500197_Eric-Setiawan_Modul-1/blob/main/109082500197_ERIC%20SETIAWAN_MODUL%201/MODUL%201/Output/soal1(2).png)
 
 [penjelasan unguided 1
 Program ini buat ngitung empat operasi matematika dasar dari dua angka. float input_1 dan float input_2 adalah variabel bertipe desimal buat nyimpen dua angka yang diinput. cout << dipakai buat nampilin teks atau hasil ke layar, sedangkan cin >> dipakai buat menerima input dari pengguna. cout << input_1 + input_2 << endl artinya nampilin hasil penjumlahan input_1 dan input_2 lalu endl buat pindah ke baris baru. Hal yang sama berlaku untuk baris berikutnya, input_1 - input_2 buat pengurangan, input_1 * input_2 buat perkalian, dan input_1 / input_2 buat pembagian.]
@@ -93,7 +93,7 @@ int main() {
 
 ##### Output 1
 
-[Screenshot Output Unguided 2_1](https://github.com/ericstwn/109082500197_Eric-Setiawan_Modul-1/blob/main/109082500197_ERIC%20SETIAWAN_MODUL%201/MODUL%201/Output/soal2.png)
+![Screenshot Output Unguided 2_1](https://github.com/ericstwn/109082500197_Eric-Setiawan_Modul-1/blob/main/109082500197_ERIC%20SETIAWAN_MODUL%201/MODUL%201/Output/soal2.png)
 
 
 ##### Output 2
@@ -133,7 +133,7 @@ int main() {
 
 ##### Output 1
 
-[Screenshot Output Unguided 3_1](https://github.com/ericstwn/109082500197_Eric-Setiawan_Modul-1/blob/main/109082500197_ERIC%20SETIAWAN_MODUL%201/MODUL%201/Output/soal3.png)
+![Screenshot Output Unguided 3_1](https://github.com/ericstwn/109082500197_Eric-Setiawan_Modul-1/blob/main/109082500197_ERIC%20SETIAWAN_MODUL%201/MODUL%201/Output/soal3.png)
 
 
 ##### Output 2
