@@ -45,11 +45,11 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+[Screenshot Output Unguided 1_1](https://github.com/ericstwn/109082500197_Eric-Setiawan_Modul-1/blob/main/109082500197_ERIC%20SETIAWAN_MODUL%201/MODUL%201/Output/soal1.png)
 
 ##### Output 2
 
-[Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+[Screenshot Output Unguided 1_2](https://github.com/ericstwn/109082500197_Eric-Setiawan_Modul-1/blob/main/109082500197_ERIC%20SETIAWAN_MODUL%201/MODUL%201/Output/soal1(2).png)
 
 [penjelasan unguided 1
 Program ini buat ngitung empat operasi matematika dasar dari dua angka. float input_1 dan float input_2 adalah variabel bertipe desimal buat nyimpen dua angka yang diinput. cout << dipakai buat nampilin teks atau hasil ke layar, sedangkan cin >> dipakai buat menerima input dari pengguna. cout << input_1 + input_2 << endl artinya nampilin hasil penjumlahan input_1 dan input_2 lalu endl buat pindah ke baris baru. Hal yang sama berlaku untuk baris berikutnya, input_1 - input_2 buat pengurangan, input_1 * input_2 buat perkalian, dan input_1 / input_2 buat pembagian.]
@@ -93,12 +93,12 @@ int main() {
 
 ##### Output 1
 
-[Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+[Screenshot Output Unguided 2_1](https://github.com/ericstwn/109082500197_Eric-Setiawan_Modul-1/blob/main/109082500197_ERIC%20SETIAWAN_MODUL%201/MODUL%201/Output/soal2.png)
 
 
 ##### Output 2
 
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 2_2](https://github.com/ericstwn/109082500197_Eric-Setiawan_Modul-1/blob/main/109082500197_ERIC%20SETIAWAN_MODUL%201/MODUL%201/Output/soal2(2).png)
 
 [penjelasan unguided 2
 Program ini buat ngubah angka 0 sampai 100 menjadi tulisan dalam bahasa Indonesia. Program punya tiga array string yaitu satuan buat nyimpen kata angka 1-9, belasan buat nyimpen kata angka 10-19, dan puluhan buat nyimpen kata angka 20-90. Fungsi KonversiTulisan ngecek angkanya masuk kategori mana, kalau 0 langsung return "nol", kalau kurang dari 10 ambil dari array satuan, kalau kurang dari 20 ambil dari array belasan dengan dikurangi 10 sebagai indeksnya, kalau kurang dari 100 gabungin kata puluhan dan satuannya pakai tanda ? yang artinya kalau satuannya lebih dari 0 maka ditambah kata satuannya, kalau pas 100 return "seratus". Di main program minta input angka, lalu memanggil fungsi KonversiTulisan dan hasilnya ditampilin pakai cout dalam format "angka = tulisan".]
@@ -133,12 +133,12 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+[Screenshot Output Unguided 3_1](https://github.com/ericstwn/109082500197_Eric-Setiawan_Modul-1/blob/main/109082500197_ERIC%20SETIAWAN_MODUL%201/MODUL%201/Output/soal3.png)
 
 
 ##### Output 2
 
-![Screenshot Output Unguided 3_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 3_2](https://github.com/ericstwn/109082500197_Eric-Setiawan_Modul-1/blob/main/109082500197_ERIC%20SETIAWAN_MODUL%201/MODUL%201/Output/soal3(2).png)
 
 [penjelasan unguided 3
 Program ini buat nampilin pola angka berbentuk jam pasir dengan bintang di tengah. Program minta input n sebagai ukuran polanya. Loop pertama for (int i = 1; i <= n; i++) buat ngulang sebanyak n baris. Di tiap baris ada tiga bagian, loop kedua for (int j = n - i + 1; j >= 1; j--) nampilin angka dari besar ke kecil di sisi kiri, lalu cout << "* " nampilin bintang di tengah sebagai pemisah, lalu loop ketiga for (int j = 1; j <= n - i + 1; j++) nampilin angka dari kecil ke besar di sisi kanan. Setiap baris makin ke bawah angkanya makin sedikit karena nilai n - i + 1 makin mengecil seiring i bertambah. endl dipakai buat pindah ke baris baru setiap selesai satu baris pola.]
